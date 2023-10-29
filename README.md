@@ -15,4 +15,4 @@ The Crazyflie 2.1 is a small quadcopter whose open source development makes it e
 
 ## The RL algorithm
 
-
+![figure](figures/diagram-20231029.png)
